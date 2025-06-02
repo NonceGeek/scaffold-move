@@ -1,6 +1,6 @@
 # Scaffold-Move
 
-> bewater:sponsor:ethereum:0x73c7448760517E3E6e416b2c130E3c6dB2026A1d
+> bewater:sponsor:ethereum:0x73c7448760517E3E6e416b2c130E3c6dB2026A1d|
 
  🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Move Chains. 
  
